@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/azureuser/helm/node-js-app/templates'
+let g:netrw_dirhist_3='/home/azureuser/helm/node-js-app/charts'
+let g:netrw_dirhist_2='/home/azureuser/helm/apache-helm/charts'
+let g:netrw_dirhist_1='/home/azureuser/helm/apache-helm'

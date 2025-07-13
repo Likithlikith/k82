@@ -1,0 +1,14 @@
+kind: Pod
+apiVersion: v1
+
+metadata:
+  name: naginx-pod
+  namespace: naginx
+
+spec:
+  containers:
+    
+    - name: naginx
+      image: nginx
+      ports:
+        - containerPort: 80
